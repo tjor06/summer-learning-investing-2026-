@@ -83,3 +83,102 @@ Steps in a valuation:
     Factoring in Expected FCFF and the Risk-adjusted Discount Rate as well as the Failure risk (Chance of grevious or catastrophic events putting the business model at risk) lead to the Value of the business. 
 
 
+ACCOUNTING NOTES:
+
+SESSION 1: The Financial Statements - An Overview
+
+3 big questions we want accounting statements to answer:
+
+- What do you own as a business? List assets, how much is spent on the investments, what are the assets worth
+- What do you owe?
+- how much money did you make?
+
+The Accounting statements overview:
+1. The Balance sheet:
+    Summary of what a firm owns and owes at a point in time, as well as an estimate of what equity is worth.
+What's inside:
+        Assets: Fixed Assets (physical assets), current assets (short lived), Financial assets (Investments), Intangible Assets (Non-physical assets)
+        Liabilities: Current Liabilities (short term obligations), Debt (long term debt), Other liabilities (other long term obligations), Equity (Shhareholder's equity)
+
+
+2. The income statements: Reports on how much a business earned in the period of analyssis, while providing expense and revenues.
+What's inside:
+       Start with: Revenues
+       Net out (expenses): Cost of goods sold
+       To get: Gross Profit (Production profitability)
+       Net out: Other operating expenses
+       To get: Operating Profit (profitability of business)
+       Net out: Financial Expenses (expenses associated with non-equity financing-debt)
+       To get: Taxable Income income for equity investors before taxes
+       Net out: Taxes
+       To get: Net income (income for equity investors)
+        
+
+
+
+3. The statement of cash flows: Reports on cash inflows and outflows to the firm during the period of analysis and allows for a measure of cash earnings and flows.
+
+What's inside?
+        Cash Flows From Operations: Net cash flow from operations, after taxes and interest (net income)
+        Cash Flows from Investing: How much is invested in capital expenditures and financial assets
+        Cash Flows from Financing: Net cash flow from the issue and repurchase of equity, from the issue and reparment fo debt and after divident payments.
+        = Net Change in Cash Balance: Net cash flow, after investing and financing
+
+Accounting is a rule-driven process, and these rules are formalized. 
+US companies are governed by GAAP (mostly), and Internationally is mostly under IFRS
+
+bottom line: The financial statments are the raw materials to financial analysis. 
+
+Session 2: The Income Statement
+
+Measuring Income: Accrual versus Cash accounting:
+
+In cash accounting, you recrd revenues as you get paid and expenses as you pay them.
+
+Most larger business must use accrual accounting:
+You recrd transactions when they occur, rather than when the cash flows occur. So revenues are recorded when a product of service is sold, not when the customer pays for that product.
+
+Classifying expenses:
+Types: 
+        Operating: Associated with the operations of the businesss, with no benefits spilling over into future years.
+
+        Financing: Expenses associated with non-equity financing (debt).
+
+        Capital: Expenses that create benefits over many years
+
+The incomes statement overall:
+
+ Start with: Revenues
+       Net out (expenses): Cost of goods sold
+       To get: Gross Profit (Production profitability)
+       Net out: Other operating expenses
+       To get: Operating Profit (profitability of business)
+       Net out: Financial Expenses (expenses associated with non-equity financing-debt)
+       To get: Taxable Income income for equity investors before taxes
+       Net out: Taxes
+       To get: Net income (income for equity investors)
+        
+Operating expenses: 
+COGS versus other operating expenses: Operating expenses are boradly broken down into expenses directly related to producing the goods or services that give rise to revenues (cost of goods sold), and expenses related to operations 
+Types of costs: Selling, General and Administrative Costs: In many compnanies, the largest non-operating expense is this vague clump. 
+Depreciation: 
+1. Economics depreciation- Reflects the loss in value of an asset as it ages
+2. Accounting depreciation: Driven by the aging of the asset, with the differences being mostly in whether it happens uniformly or if it's accelerating
+3. Tax depreciation: Reflects what the tax authorities will allow as depreciation for purposes of computing taxable income. 
+
+Financial Expenses: 
+1. Interest expense on debt
+2. Leases, lease payments are kind of like debt
+3. Interest expenses, sometimes these are netted out against interest income. 
+
+incomes from non-operating invesments:
+1. Cash and Marketable Securities: Income earned on cash holdings 
+2. Cross holdings in other companies: THe reporting can vary depending upon the magnitude of your holding:
+ - When a company owns more than 50% of another company, you will generally have to consolidate.
+
+ Extraordinary Income/Expenses: 
+ One time expenses or gains from assets, lawsuits, anything extremely infrequent that cannot occur frequently
+
+ Pro-forma Accounting: be careful with this
+
+
