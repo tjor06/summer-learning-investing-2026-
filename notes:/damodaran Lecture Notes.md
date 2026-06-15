@@ -35,3 +35,51 @@ Session 1: Introduction to Valuation
     3rd model. Using option pricing in the context of valuation:
     Options derive value from an asset with contingeent value (ex: an oil company wiht undeveloped reserves, company with a patent that might become viable)
 
+Session 2: Narrative and Numbers: Light in the Darkness:
+As discussed previously, the 3 big enemiesof good valuations: Bias/Priors, Uncertainty, Complexity & Detail
+Example: Valuing Tesla
+Tesla: Ask yourself what are your priors (Do I like/dislike the company, does my feeling about Elon Musk have anything to do with it)
+When sitting down to value a company, you need to address 4 questions:
+ - What are the cashflows from existing assets? (equity: cashflows after debt payments, Firm: Cashflows before debt payments )
+ - What is the value added by growth assets? (Equity: Growth in equity earnings, Firm: Growth in operating earnings/cashflows)
+ - How risky are the cash flows from both existing and growth assets? Equity: Risk in equity in the company, Firm: Risk in the firm's operation
+ - When will the firm become a mature firm, and whar are the potential roadblocks? Mature Firm: Grows at or less than or equal to the  rate of the economy
+
+ Sources of Uncertainty: 
+ Use buckets
+ - Type 1: Estimation uncertainty versus Economic uncertainty:
+      - Estimation uncertainty reflects the possibility that you could have the "wrong model" or estimated inputs incorrectly within this model
+      - Economic Uncertainty comes from the fact that markets and economies can change over time and that even the best models will fail to capture these unexpected changes
+- Type 2: Micro uncertainty vs macro uncertainty
+    - Micro uncertainty refers to uncertainty about the potential market for a firm's products, the competition, the quality of the management team, etc.
+    - Macro uncertainty reflects the reality that your firm's fortunes can be affected by changes in the macro economic environment
+- Type 3: Discrete vs Continuous uncertainty
+    - Discrete risk: Risks that lie dormant for periods but show up at certain points. Ex: A drug going through FDA might fail approval, etc.
+    - Continuous Risk: Risks changes in interest rates or economic growth occurc continously and affect value as they occur, ex: exchange rate changes for a European company importing from the US. 
+
+A Life cycle for companies:
+Uncertainty is high for young companies, but as companies age, things change from macro uncertainty to much more dependent on micro uncertainty.
+
+A Healthy Valuation:
+    - A Good valuation is not just a spreadsheet, there needs to be a connection to the story of the company bridged to the numbers themselves. 
+Steps in a valuation:
+    1. Develop a narrative for the business that you are valuing, with evolution over time. Focus on the probable story (needs to be probable and plausible)
+    2. Test the narrative to see if it is possible, plausibl, and probable.
+    3. Convert the narrative into drivers of value: Take the narrative apart and look at how you will bring into valuation inputs starting with potential market size down to cash flows and risk. By the time you are done, each part of the narrative should have a place in your numbers and each number should be backed up by a portion of your story.
+    4. Connect the drivers of value to a valuation: Vreate an intrinsic valuation model that connects the inputs to an end-value for the business
+    5. Keep the feedback loop open: Listen to people that know the business and use their input to finr tune the narrative and potentially alter it. Wrok out the effects on value of alternative narratives for the company. 
+
+    The value drivers for a company: 
+    1. Revenue growth: Function of the size of the total accessible market and market share
+    2. Operating Margins: Determined by pricing power and cost efficiencies, etc
+    3Growth/Invesment Efficiency: Measure of how much investment is needed to deliver growth
+
+    These 3 lead to the expected free cash flows: Expected FCFF = Revenues * Operating Margins - Taxes - Reinvestment
+
+    Need to also factor in the Risk adjusted Discount rate: This comes from:
+    1. Cost of Equity: Rate of return that equity investors demand
+    2. Cost of debt: Cost of borrowing money, net of tax advantages
+
+    Factoring in Expected FCFF and the Risk-adjusted Discount Rate as well as the Failure risk (Chance of grevious or catastrophic events putting the business model at risk) lead to the Value of the business. 
+
+
