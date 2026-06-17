@@ -182,3 +182,73 @@ incomes from non-operating invesments:
  Pro-forma Accounting: be careful with this
 
 
+June 17, 2026
+Session 3 & 4 from Accounting Lectures:
+
+Session 3: Balance Sheets - Assets Owned & Money Owed
+    3 views: 1. a balance sheet should record what is invested in assets
+    2. It should record the value of those invested assets
+    3. Should record the value gained in liquidity from selling those invested assets
+
+What's inside:
+    Fixed assets: Physical, long lived assets
+        New Way: Marking assets by their current market value
+
+    Current Liabilites: Short term obligations
+        3 groups: 
+            - Non-interest-bearing liabilities, like accounts payable and supplier credit
+            - interest bearing short term borrowing, like commercial paper, short term debt, and the short term portion of long term debt
+            - Deffered Salaries and amounts due
+
+    Current Assets: Short lived
+    Debt: Long term debt
+        - Footnotes can tell you when doebt is due, stated interest rates and maturities, additional features on the debt
+    Financial Assets: Investments in Securities and other businesses
+        - Holdings of securities, holdings of other companies, Majority stakes in companies are factored as revenues in operating income
+
+    Other liabilities: Other long term obligations
+    Intangible assets: Non-physical
+        Accountants speak a lot of this, such as brand name, management quality, etc. but in reality, only small-bore intangibles are actually most accurately valued.
+        Most widely reported intangible: Goodwill (it is a plug variable that signifies little) - For goodwill to manifest itself a company has to do an acquisition. When this occurs, it is measured as the difference between the price paid on the acquisition and the valuation.
+
+
+    Equity: Shareholder' Equity
+        New way to record: The shareholders' equity in a business reflects teh jumbled mess of mark-to-market accounting, with all of its contradicitons
+        Par value: A throwback in time and should be ignored
+        Company Age: Since a sharholders; equity reflects a companies whole history of equity raises and retained earnings, young companies will have less shareholders' equity
+        Capitalization effects: Since only capitalized expenses become part of assets, shareholders' equity can be skewed
+        Buyback effects: Both dividends and buybacks reduce shareholders' equity, by reducing it, but the magnitude of buybacks makes their effect more dramatic
+        Negative equity?: Extended losses or extensive buybacks. 
+
+Session 4: The Statement of Cash Flows
+- Surface objective is to explain how much the cash balance of a business changed during a period and why it changed
+-Embedded inside the statement: 
+    - How much cash earnings the comapny had during the period contrasted with accrual earnings
+    - How much and where teh company reinvested cash during the period to sustain and grow its business
+    - how much cash it raised from or returned to its debt and equity investors
+
+Working capital effect: Non cash working capital: Non-cash current assets - Non-debt current liabilities
+    
+3 parts to the cash flows:
+1. Cash flows from operations
+   Starts with: Net income
+   Plus: Other non-cash expenses and depreciations and amortization
+    Plus or minus: Change in: Accounts recievable, inventory, other current assets, payouts, etc
+
+2. Cash flows from investing
+    Minus: Capital Expenditures, Cash acquisitions, Investments in financial assets, investments in non-operating assets
+    Plus: Divestitures in assets and of securities and non-operating assets
+    - Operating or non-operating assets: 
+    Operating assets are required for company growth, where capital expenditure should be greater than depreceiation.
+    
+
+
+
+3. Cash flows from Financing 
+= Net change in Cash balance
+Plus: Debt raised, new equity issuances
+Minus: Debt repaid, dividends paid, stock buybacks
+
+
+
+
